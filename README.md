@@ -1,1 +1,1 @@
-# banco-de-dados
+Este projeto busca gerar vários tipos de insights para  ajudar o supermercado a otimizar suas operações, reduzindo o excesso de estoque, aumentando as vendas de produtos com baixa saída, e focando em categorias que oferecem maior margem de lucro. # banco-de-dados
